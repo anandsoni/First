@@ -9,5 +9,6 @@
 #import <Foundation/Foundation.h>
 
 @interface SingleView : NSObject
+-(void)addacction;
 
 @end
