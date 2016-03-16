@@ -16,6 +16,7 @@
 		871C034C1B2186FC005497C5 /* Practise1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 871C034B1B2186FC005497C5 /* Practise1Tests.m */; };
 		871C03571B218E85005497C5 /* ViewController1.m in Sources */ = {isa = PBXBuildFile; fileRef = 871C03561B218E85005497C5 /* ViewController1.m */; };
 		87E947CD1C994D960075D325 /* SingleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 87E947CC1C994D960075D325 /* SingleView.m */; };
+		87E947D31C9962330075D325 /* Test.m in Sources */ = {isa = PBXBuildFile; fileRef = 87E947D21C9962330075D325 /* Test.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,8 @@
 		871C03561B218E85005497C5 /* ViewController1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController1.m; sourceTree = "<group>"; };
 		87E947CB1C994D960075D325 /* SingleView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingleView.h; sourceTree = "<group>"; };
 		87E947CC1C994D960075D325 /* SingleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SingleView.m; sourceTree = "<group>"; };
+		87E947D11C9962330075D325 /* Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test.h; sourceTree = "<group>"; };
+		87E947D21C9962330075D325 /* Test.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Test.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				871C03551B218E85005497C5 /* ViewController1.h */,
 				871C03561B218E85005497C5 /* ViewController1.m */,
 				87E947CB1C994D960075D325 /* SingleView.h */,
+				87E947D11C9962330075D325 /* Test.h */,
+				87E947D21C9962330075D325 /* Test.m */,
 				87E947CC1C994D960075D325 /* SingleView.m */,
 				871C03391B2186FC005497C5 /* Main.storyboard */,
 				871C033C1B2186FC005497C5 /* Images.xcassets */,
@@ -232,6 +237,7 @@
 				871C03571B218E85005497C5 /* ViewController1.m in Sources */,
 				87E947CD1C994D960075D325 /* SingleView.m in Sources */,
 				871C03381B2186FC005497C5 /* ViewController.m in Sources */,
+				87E947D31C9962330075D325 /* Test.m in Sources */,
 				871C03351B2186FC005497C5 /* AppDelegate.m in Sources */,
 				871C03321B2186FC005497C5 /* main.m in Sources */,
 			);
